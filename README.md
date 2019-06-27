@@ -3,6 +3,7 @@
 #### _Polygon and line clipping and offsetting library for Javascript/Typescript_
 
 _a port of Angus Johnson's clipper to WebAssembly/Asm.js_
+_a fork of Xavier Gonz's web assembly clipper, built with C++ Clipper 6.2.1_
 
 [![npm version](https://badge.fury.io/js/js-angusj-clipper.svg)](https://badge.fury.io/js/js-angusj-clipper)
 [![Build Status](https://travis-ci.org/xaviergonz/js-angusj-clipper.svg?branch=master)](https://travis-ci.org/xaviergonz/js-angusj-clipper)
